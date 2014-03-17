@@ -67,7 +67,6 @@ include "analyticstracking.php";
                              <blockquote class="quote-right">
                              <p>"De applicaties die jij of je bedrijf nodig hebben zijn allemaal in de Cloud verkrijgbaar"</p></blockquote>
 	</div>
-
 	 <ul>
    <li>Ondersteuning nieuwe werken</li>
    <li>Flexibel in gebruikers & applicaties</li>
@@ -78,6 +77,7 @@ include "analyticstracking.php";
    <li>Altijd de laatste technologie</li>
    <li>Informatie altijd en overal beschikbaar</li>
    </ul>
+</div>
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"
@@ -87,7 +87,6 @@ include "analyticstracking.php";
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
  <!-- END CloudComputingMKB_banner_480*60 -->
-		</div>
                                  <a class="text-divider2" href="#top">back to top</a>
                                  <div class="text-divider5">
                                     <span></span>

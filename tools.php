@@ -54,8 +54,17 @@ include "analyticstracking.php";
 								</div>                                
                             </div>
                             <div class="span9 main-column two-columns-left">
-                                <h1>Appplicaties<small>Tools</small></h1>
-<p><b>De Cloud</b><br>Hier beginnen ......
+                                <h1>Appplicaties<small> Tools</small></h1>
+<p>Als je op het internet zoekt naar ondersteunende tools voor uw werkzaamheden dan kan dit wel een overweldigend over komen. Er zijn veel aanbieders en zij geven alle aan het ei van Columbus te hebben uitgevonden. Natuurlijk is dit niet zo. Net zo goed als dat CloudComputingMKB.com bekend is met alle tools en over alle wijheid beschikt. Dit is namelijk nagenoeg onmogelijk.</p>
+
+<p>CloudComputingMKB.com heeft dan ook niet als doel een volledig overzicht te bieden van alle beschikbare tools. CloudComputingMKB.com richt zich op breed gedragen tools dan wel tools die echt een meerwaarde bieden t.o.z. van vergelijkbare tools. Tools die naar onze mening dus echt helpen bij uw werkzaamheden. Tools die bijdragen aan communcatie, tools die u waardevolle documenten veilig bewaren en bijvoorbeeld tools die u kunnen helpen met samenwerken met u klanten en collega's.</p>
+
+<p>CloudComputingMKB.com heeft de tools onderverdeeld in een aantal categorieën om het zoeken voor u te vereenvoudigen.<br><br>
+
+<strong>Applicaties / Tools</strong><?php
+										include "tools_list.php";
+									?> 
+</p>
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"

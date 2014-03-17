@@ -48,12 +48,15 @@ include "analyticstracking.php";
                             <div id="left-sidebar" class="span3 sidebar">                               
                                 <div class="side-nav sidebar-block">
                                     <h2>Contact</h2>
-                                  
+									<p>Indien u contact wenst op te nemen dan kan dat via het onderstaande email adres:<br><A HREF="mailto:info@cloudcomputingmkb.com">info@cloudcomputingmkb.com</a></p>
 								</div>                                
                             </div>
                             <div class="span9 main-column two-columns-left">
                                 <h1>Over ons</h1>
-<p><b>De Cloud</b><br>Hier beginnen ......
+<p>CloudComputingMKB.com is een onafhankelijke informatie provider voor het MKB en ZZP'ers die zich richt op ondernemen met gebruik van internet applicaties (CloudComputing).</p>
+<p>De eigen ervaring leert dat het niet altijd eenvoudig is om vanuit alle beschikbare tools de juiste te kiezen. Over het algemeen is dit namelijk geen core business van een onderneming of ZZP'er. Het tool moet ondersteuning bieden en geen onderkreuning (zucht..steun.. kreun).</p>
+<p>CloudComputingMKB.com heeft dan ook niet als doel een volledig overzicht te bieden van alle beschikbare tools. CloudComputingMKB.com richt zich op breed gedragen tools dan wel tools die echt een meerwaarde bieden t.o.z. van vergelijkbare tools. Indien u van plan bent om, o.a. naar aanleiding van de beschikbare informatie op deze site, met CloudComputing te starten dan is dat volledig u eigen verantwoordelijkheid.</p>
+<p>Indien u vragen heeft m.b.t. deze website dan kunt u contact open nemen via het onderstaande email adres:<br><A HREF="mailto:info@cloudcomputingmkb.com">info@cloudcomputingmkb.com</a></p>
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"
