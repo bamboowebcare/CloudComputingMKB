@@ -3,8 +3,8 @@
     <head>
         <!--  SEO STUFF START HERE -->
         <title>CloudComputing MKB</title></title>
-        <meta name="keywords" content="" />
-        <meta name="description" content="" />
+        <meta name="keywords" content="Copy, Cloud, MKB, digitaal, Computing, ZZP, Informatie, Reviews" />
+        <meta name="description" content="Het internet is meer dan een verzameling van websites. CloudComputingMKB.com geeft het MKB en ZZP'ers inzicht in de wonderewereld van CloudComputing." />
         <meta name="author" content="P.Y.N. Venema" />
         <meta name="robots" content="follow, index" />
         <!--  SEO STUFF END -->
@@ -49,14 +49,14 @@ include "analyticstracking.php";
                         <div class="row show-grid">
                             <div id="left-sidebar" class="span3 sidebar">                               
                                 <div class="side-nav sidebar-block">
-                                    <h2>Copy</h2>
+                                    <h2>Cloud Storage</h2>
                                     <?php
 										include "tools_cloudstorage_list.php";
 									?> 
 								</div>                                
                             </div>
                             <div class="span9 main-column two-columns-left">
-                                <h1>Cloud Storage</h1>
+                                <h1>Copy</h1>
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"

@@ -3,7 +3,7 @@
     <head>
         <!--  SEO STUFF START HERE -->
         <title>CloudComputing MKB</title></title>
-        <meta name="keywords" content="Trello, Cloud, MKB, digitaal, Computing, ZZP, Informatie, Review" />
+        <meta name="keywords" content="Cloud, MKB, digitaal, Computing, ZZP, Informatie, Review" />
         <meta name="description" content="Het internet is meer dan een verzameling van websites. CloudComputingMKB.com geeft het MKB en ZZP'ers inzicht in de wonderewereld van CloudComputing." />
         <meta name="author" content="P.Y.N. Venema" />
         <meta name="robots" content="follow, index" />
@@ -42,21 +42,20 @@ include "analyticstracking.php";
                         <ul>
                             <li class="home"><a href="index.php">Home</a></li>
 							<li><a href="tools.php">Applicaties / Tools</a></li>
-							<li><a href="tools_projectmanagement.php">Project Management</a></li>
-                            <li>Trello</li>
+                            <li>Notities</li>
                         </ul>
                         </div>
                         <div class="row show-grid">
                             <div id="left-sidebar" class="span3 sidebar">                               
                                 <div class="side-nav sidebar-block">
-                                    <h2>Trello</h2>
+                                    <h2>Notities</h2>
                                     <?php
-										include "tools_projectmanagement_list.php";
+										include "tools_notities_list.php";
 									?> 
 								</div>                                
                             </div>
                             <div class="span9 main-column two-columns-left">
-                                <h1>Trello</h1>
+                                <h1>Notities</h1>
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"
@@ -67,6 +66,9 @@ include "analyticstracking.php";
 </script>
  <!-- END CloudComputingMKB_banner_480*60 -->
 							</div>
+<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>	
+
                                  <a class="text-divider2" href="#top">back to top</a>
                                  <div class="text-divider5">
                                     <span></span>

@@ -30,7 +30,7 @@
                                      <li class="active single"><a href="tools.php">Applicaties
                                             <i>Tools</i>
                                      <li class="active single"><a href="contact.php">CONTACT
-                                            <i>Formulier</i>
+                                            <i>Over ons</i>
                                         </a>
                                     </li>
                                 </ul>

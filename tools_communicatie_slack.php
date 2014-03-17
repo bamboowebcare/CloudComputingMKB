@@ -3,8 +3,8 @@
     <head>
         <!--  SEO STUFF START HERE -->
         <title>CloudComputing MKB</title></title>
-        <meta name="keywords" content="" />
-        <meta name="description" content="" />
+        <meta name="keywords" content="Slack, Cloud, MKB, digitaal, Computing, ZZP, Informatie, Review" />
+        <meta name="description" content="Het internet is meer dan een verzameling van websites. CloudComputingMKB.com geeft het MKB en ZZP'ers inzicht in de wonderewereld van CloudComputing." />
         <meta name="author" content="P.Y.N. Venema" />
         <meta name="robots" content="follow, index" />
         <!--  SEO STUFF END -->
