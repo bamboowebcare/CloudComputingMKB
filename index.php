@@ -134,7 +134,7 @@ include "analyticstracking.php";
                                 </div>
                                 <h2>Cloud Computing</h2>
                                 <p>Cloud Computing is ideaal voor het MKB en ZZp-ers.
-                                    <a href="cloudcomputing.html">Lees meer&nbsp;&raquo;</a>
+                                    <a href="cloudcomputing.php">Lees meer&nbsp;&raquo;</a>
                                 </p>
                             </div>
                             <div class="span4">
@@ -143,7 +143,7 @@ include "analyticstracking.php";
                                 </div>
                                 <h2>Flexibel gebruik</h2>
                                 <p>Flexibel in gebruikers & applicaties. Betalen naar gebruik & behoefte
-                                    <a href="#">Lees meer&nbsp;&raquo;</a>
+                                    <a href="flexibelgebruik.php">Lees meer&nbsp;&raquo;</a>
                                 </p>
                             </div>
                             <div class="span4">
@@ -152,19 +152,17 @@ include "analyticstracking.php";
                                 </div>
                                 <h2>Tools</h2>
                               <p>Meer in formatie over handige cloud applicaties vindt u hier.
-							  <a href="#">Lees meer&nbsp;&raquo;</a>
+							  <a href="tools.php">Lees meer&nbsp;&raquo;</a>
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="horizontal-divider span12"></div>
                 </div>
-
-         <footer> 
-			<div class="span12">
-				<p> We use the internet | CloudComputing MKB Copyright 2014.</p>
-            </div>
-        </footer>
+<!-- FOOTER -->
+<?php
+include "footer.php";
+?> 
 <!-- END FOOTER -->
 <!-- Placed at the end of the document so the pages load faster -->
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>

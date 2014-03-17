@@ -41,21 +41,23 @@ include "analyticstracking.php";
                         <div id="breadcrumb">
                         <ul>
                             <li class="home"><a href="index.php">Home</a></li>
-                            <li>Applicaties / Tools</li>
+                            <li><a href="cloudcomputing.php">Cloud Computing</a></li>
+                            <li>Wat is de Cloud?</li>
                         </ul>
                         </div>
                         <div class="row show-grid">
                             <div id="left-sidebar" class="span3 sidebar">                               
                                 <div class="side-nav sidebar-block">
-                                    <h2>Applicaties / Tools</h2>
+                                    <h2>Cloud Computing</h2>
                                     <?php
-										include "tools_list.php";
+										include "cloudcomputing_list.php";
 									?> 
 								</div>                                
                             </div>
                             <div class="span9 main-column two-columns-left">
-                                <h1>Appplicaties<small>Tools</small></h1>
-<p><b>De Cloud</b><br>Hier beginnen ......
+                                <h1>Flexibel<small> in gebruik</small></h1>
+<p><b>De Cloud</b><br>Hier beginnen w.........
+</p>
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"
@@ -77,11 +79,9 @@ include "analyticstracking.php";
                         </div>
                     </div>
                 </div>
-<!-- FOOTER -->
 <?php
 include "footer.php";
 ?> 
-<!-- END FOOTER -->
         <!-- Placed at the end of the document so the pages load faster -->
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript" src="js/bootstrap.js"></script>

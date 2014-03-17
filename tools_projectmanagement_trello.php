@@ -41,21 +41,22 @@ include "analyticstracking.php";
                         <div id="breadcrumb">
                         <ul>
                             <li class="home"><a href="index.php">Home</a></li>
-                            <li>Applicaties / Tools</li>
+							<li><a href="tools.php">Applicaties / Tools</a></li>
+							<li><a href="tools_projectmanagement.php">Project Management</a></li>
+                            <li>Trello</li>
                         </ul>
                         </div>
                         <div class="row show-grid">
                             <div id="left-sidebar" class="span3 sidebar">                               
                                 <div class="side-nav sidebar-block">
-                                    <h2>Applicaties / Tools</h2>
+                                    <h2>Trello</h2>
                                     <?php
-										include "tools_list.php";
+										include "tools_projectmanagement_list.php";
 									?> 
 								</div>                                
                             </div>
                             <div class="span9 main-column two-columns-left">
-                                <h1>Appplicaties<small>Tools</small></h1>
-<p><b>De Cloud</b><br>Hier beginnen ......
+                                <h1>Trello</h1>
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"
@@ -65,10 +66,7 @@ include "analyticstracking.php";
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
  <!-- END CloudComputingMKB_banner_480*60 -->
-		</div>
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>	
-
+							</div>
                                  <a class="text-divider2" href="#top">back to top</a>
                                  <div class="text-divider5">
                                     <span></span>

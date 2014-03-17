@@ -41,20 +41,18 @@ include "analyticstracking.php";
                         <div id="breadcrumb">
                         <ul>
                             <li class="home"><a href="index.php">Home</a></li>
-                            <li>Applicaties / Tools</li>
+                            <li>Contact</li>
                         </ul>
                         </div>
                         <div class="row show-grid">
                             <div id="left-sidebar" class="span3 sidebar">                               
                                 <div class="side-nav sidebar-block">
-                                    <h2>Applicaties / Tools</h2>
-                                    <?php
-										include "tools_list.php";
-									?> 
+                                    <h2>Contact</h2>
+                                  
 								</div>                                
                             </div>
                             <div class="span9 main-column two-columns-left">
-                                <h1>Appplicaties<small>Tools</small></h1>
+                                <h1>Over ons</h1>
 <p><b>De Cloud</b><br>Hier beginnen ......
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"

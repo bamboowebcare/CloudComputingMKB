@@ -40,7 +40,7 @@ include "analyticstracking.php";
                     <div class="span12">
                         <div id="breadcrumb">
                         <ul>
-                            <li class="home"><a href="#">Home</a></li>
+                            <li class="home"><a href="index.php">Home</a></li>
                             <li><a href="cloudcomputing.php">Cloud Computing</a></li>
                             <li>Wat is de Cloud?</li>
                         </ul>
@@ -88,9 +88,6 @@ include "analyticstracking.php";
 </script>
  <!-- END CloudComputingMKB_banner_480*60 -->
 		</div>
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>	
-
                                  <a class="text-divider2" href="#top">back to top</a>
                                  <div class="text-divider5">
                                     <span></span>
@@ -99,13 +96,11 @@ include "analyticstracking.php";
                         </div>
                     </div>
                 </div>
-<!-- FOOTER --> 
- <footer> 
-			<div class="span12">
-				<p> We use the internet | CloudComputing MKB Copyright 2014.</p>
-            </div>
-        </footer>
-<!-- END FOOTER --> 
+<!-- FOOTER -->
+<?php
+include "footer.php";
+?> 
+<!-- END FOOTER -->
         <!-- Placed at the end of the document so the pages load faster -->
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript" src="js/bootstrap.js"></script>
