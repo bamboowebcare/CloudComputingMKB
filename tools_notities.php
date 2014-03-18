@@ -56,6 +56,13 @@ include "analyticstracking.php";
                             </div>
                             <div class="span9 main-column two-columns-left">
                                 <h1>Notities</h1>
+<p><blockquote class="quote-right"><strong>Nooit meer je notities kwijt!!! Het nieuwe groene werken.</strong></blockquote>
+In de jaren '90 spraken we al over papierloos werken. Anno 2014 is dit nog altijd niet gelukt. Hier en daar kan men spreken over papierarm werken. Dat is jammer en onnodig. CloudComputing biedt legio van mogelijkheden om notities en vergaderstukken op te slaan, te editten en te verspreiden. De printers kunnen de deur uit (en ook dat geeft weer een besparing). Bovendien, u heeft nog nooit zo 'groen' gewerkt als u nu start met CloudComputing.<br><br>
+
+Elke dag krijg je meer en meer informatie te verwerken. Hierdoor wordt het alleen maar lastiger om alles op zo’n manier te structuren, dat je het op een later tijdstip nog terug kunt vinden. Online Notitie diensten kunnen hierbij helpen. De oude mappen kunnen de prullenbak in en u bent nooit meer dat ene velletje kwijt die u net nodig had. Bovendien, u notitieblok vergeten kan ook niet. U informatie is altijd en actueel beschikbaar. Handig, CloudComputing die kan fungeren als je persoonlijke ‘extended memory’.</p>
+
+<p>CloudComputingMKB.com heeft er een aantal Notitie platformen voor u onder de loop genomen. Platformen die lage kosten hebben en een groot gebruikers gemak. Ik zou zeggen, welkom in de wondere wereld van CloudComputing!!</p>
+
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"

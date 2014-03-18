@@ -3,7 +3,7 @@
     <head>
         <!--  SEO STUFF START HERE -->
         <title>CloudComputingMKB.com</title>
-        <meta name="keywords" content="Cloud, MKB, digitaal, Computing, ZZP, Informatie, Reviews" />
+        <meta name="keywords" content="Storage, Cloud, MKB, digitaal, Computing, ZZP, Informatie, Reviews" />
         <meta name="description" content="Het internet is meer dan een verzameling van websites. CloudComputingMKB.com geeft het MKB en ZZP'ers inzicht in de wonderewereld van CloudComputing." />
         <meta name="author" content="P.Y.N. Venema" />
         <meta name="robots" content="follow, index" />

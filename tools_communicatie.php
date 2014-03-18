@@ -56,6 +56,10 @@ include "analyticstracking.php";
                             </div>
                             <div class="span9 main-column two-columns-left">
                                 <h1>Communicatie</h1>
+<p><blockquote class="quote-right"><strong>Vergroot het succes van de organisatie; begin bij de communicatie.</strong></blockquote>
+Een belangrijke exponent van cloud computing is online communicatie. Over het algemeen doen we dat allemaal en al heel lang. De communicatie verloopt al jaren via VOIP (Voice Over IP) diensten zoals Skype. Daarnaast appen we wat af via bijvoorbeeld WhatsApp. Ik laat dan maar alle emails die men verstuurd maar even buiten beschouwing.<br><br>
+Communicatie in de 21e eeuw kan een stuk gestructureerder, transparanter en effectiever als u gebruik maakt van de platformen die beschikbaar zijn via CloudComputing. CloudComputingMKB.com heeft er een aantal voor u uitgezocht. Platformen die lage kosten hebben en een groot gebruikers gemak. Ik zou zeggen, welkom in de wondere wereld van CloudComputing!!</p>
+						
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"

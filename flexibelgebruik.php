@@ -56,8 +56,10 @@ include "analyticstracking.php";
                             </div>
                             <div class="span9 main-column two-columns-left">
                                 <h1>Flexibel<small> in gebruik</small></h1>
-<p><b>De Cloud</b><br>Hier beginnen w.........
-</p>
+<p>CloudComputing is normaal gesproken een stuk goedkoper en flexibeler dan de 'oude' tools die u gebruikte. Veel online applicatie bieden een gratis versie aan die in vele gevallen alle bijna alle functionaliteit bezit. Pas als u grootgebruiker wordt gaat u (meer) betalen.</p>
+
+<p>Als u bedrijf in het verleden een groei periode door maakte betekende dit vaak direct ook een aanzienlijke groei van de kosten voor automatisering. Nieuw aan te schaffen hardware (vooral servers) heeft een hoge prijs en wordt in een korte afgeschreven. Daarnaast komen daar dan ook nog eens beheerskosten bij. Met het gebruik van CloudComputing behoort dit min of meer tot het verleden. CloudComputing is schaalbaar en alle data wordt online opgeslagen (inclusief backups). Als uw bedrijf krimpt of groeit kunt u de kosten hier dan ook op schalen. Dat is wel zo efficiënt.</p>
+
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"

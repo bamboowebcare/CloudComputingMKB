@@ -56,7 +56,25 @@ include "analyticstracking.php";
 								</div>                                
                             </div>
                             <div class="span9 main-column two-columns-left">
-                                <h1>Slack</h1>
+                                <h1><img src="img/tools/slack-logo.jpg" alt="Slack">Slack</h1>
+<blockquote><p>We’re on a mission to make your working life simpler, more pleasant and more productive.</p></blockquote>
+<p>Als je een bezoeker van je website de bovenstaande mededeling geeft dan schept dat een verwachtingspatroon. De vraag is dan natuurlijk, kan Slack dit waar maken?</p>
+
+<p>Stel je voor dat voor je team alle communicatie op een plaats beschikbaar en doorzoekbaar is. Communicatie binnen het team van de 21e eeuw.  Dat is Slack.</p>
+
+<p>Aangezien bellen toch niet helemaal de communicatie van de 21 eeuw is kun je in Slack natuurlijk communiceren via Chat berichten. En geloof me, dat scheelt een heleboel loos email verkeer en dat is wel zo prettig. In Slack kun je verschillende werkgroepen inrichten (Channels). Channels zijn transparant en vergroten de kennis van alle teamleden. De complete historie van alle gesprekken is terug te vinden (inclusief een zoek functie). Kortom, nooit meer zoeken naar dat ene mailtje waarin u ge-cc'd werd. Channels bevatten dus berichten, bestanden en commentaren, afbeeldingen & video, links en integratie met CloudComputing diensten die u dagelijks gebruikt.</p>
+
+<p><strong>Integratie met bestanden en clouddiensten</strong><br>
+De integratie van Slack met andere clouddiensten is indrukwekkend. Je kunt bijvoorbeeld naar bestanden vanaf de twee gangbare online Cloud Storage (Dropbox en Google Drive) diensten linken in Slack. Slack zorgt ervoor dat ze meteen benaderbaar zijn voor andere teamleden. Daarnaast biedt Slack ook integraties naar o.a. Trello. Deze diensten kunnen worden toegevoegd aan een Channel waardoor echt alle informatie op 1 plek terug te vinden is.</p>
+
+<p><strong>Platformen</strong><br>
+Slack heeft volledig native apps voor iOS en Android om u de volledige functionaliteit van Slack geven waar u ook naar toe gaat of bent. Daarnaast biedt Slack via een browser op een desktop of laptop ook toegang tot alle informatie. Wel zo handig.</p> 
+
+<p><strong>Prijzen</strong><br>
+Er zijn drie verschillende prijsuitvoeringen van Slack. Het aardige is dat je ook kosteloos uitstekend uit de voeten kan met de toepassing. Er zit geen restrictie op het aantal gebruikers in de gratis variant. Elk teamlid krijgt bovendien 5 gigabyte online opslag en het archief is tot 10.000 items terug doorzoekbaar. Je kan Slack dan maximaal aan 5 externe diensten koppelen. Voor 8 dollar per maand per gebruiker ga je over naar Standard. Dan is het volledige archief doorzoekbaar, is er geen limiet meer op externe diensten en krijgt elke gebruiker 10GB opslag die over het team verdeeld kan worden. Ook wordt inloggen met Google Apps voor domeinen dan mogelijk. In het Plus-model win je vooral aan service en krijgt elke gebruiker 20GB ruimte. Dat kost 15 dollar per gebruiker per maand. </p> 
+
+<p><strong><a href="https://slack.com/r/026gs85r-026gs9ap" target="_blank">Klik hier voor de Website van Slack</a><p>					
+								
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"

@@ -56,6 +56,15 @@ include "analyticstracking.php";
                             </div>
                             <div class="span9 main-column two-columns-left">
                                 <h1>Cloud Storage</h1>
+<p>Cloud-storage is een model van genetwerkte online opslag waarbij de gegevens worden opgeslagen op meerdere virtuele servers, meestal georganiseerd door derden, in plaats van dat de data gehost wordt op dedicated servers of u persoonlijke hardeschijf.</p>
+<p>De voordelen van Cloud storage:
+<ul>
+<li>U betaalt alleen voor de opslagruimte die u daadwerkelijk gebruikt</li>
+<li> U hoeft geen fysieke appratuur aan te schaffen</li>
+<li>Opslag, onderhoud, back-up, replicatie van gegevens en overige zaken zijn de verantwoordelijkheid van de service provider</li>
+</ul></p>
+<p>Cloud Storage is dus ideaal voor het MKB en voor ZZP'ers. Bovendien hoeft het niet duur te zijn. Cloud Storage is er in alle soorten en maten en dus ook in prijzen.</p>
+
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"
