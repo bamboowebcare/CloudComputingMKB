@@ -5,7 +5,7 @@
         <title>CloudComputing MKB</title></title>
         <meta name="keywords" content="Cloud, MKB, digitaal, Computing, ZZP, Informatie, Review" />
         <meta name="description" content="Het internet is meer dan een verzameling van websites. CloudComputingMKB.com geeft het MKB en ZZP'ers inzicht in de wonderewereld van CloudComputing." />
-        <meta name="author" content="P.Y.N. Venema" />
+        <meta name="author" content="BambooWebcare" />
         <meta name="robots" content="follow, index" />
         <!--  SEO STUFF END -->
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
@@ -56,6 +56,22 @@ include "analyticstracking.php";
                             </div>
                             <div class="span9 main-column two-columns-left">
                                 <h1>Project Management</h1>
+<p><blockquote class="quote-right">Afspraak is Afspraak begint bij transparantie;</blockquote>
+
+Misschien kunnen we beter spreken over projectmatig werken. Veel veranderingen in organisaties, profit en non-profit gebeuren door een project. Hoe beter je projectmatig werken beheerst, hoe innovatiever je kunt zijn en gemakkelijker kunt omspringen met veranderingen als organisatie. En veranderingen blijven komen, dat geldt voor elk bedrijf en elke organisatie.<br><br>
+
+Organisaties hebben er groot belang bij om succesvol te zijn in projectmatig werken. Er zijn in elk geval drie redenen om stil te staan bij projectmatig werken:
+
+<ul>
+<li>Financiers stemmen hun betalingsstructuur er steeds meer op af;</li>
+<li>Projectmatig werken biedt voordelen en is voor meer organisaties haalbaar geworden als werkvorm.</li>
+<li>Mensen zich committeren makkelijker aan de gemaakt afspraken in een project</li>
+</ul>
+
+Wetenschappelijk is  “bewezen”, dat projectsucces vooral afhankelijk is van de werkstijl van een projectmanager en dat allerlei procedures en technieken vaak alleen maar storende factoren zijn. Instrumentgebruik is vooral intern gericht, terwijl de projectmanager zich met name extern zou moeten richten. Of te wel, deel de kennis en status van een project.<br><br>
+
+Projectmatig werken via CloudComputing is hier uitermate geschikt voor. De Tools die beschikbaar zijn bieden alle hulpmiddelen die de communicatie en voortgang van projecten kunnen voorspoedigen. CloudComputingMKB.com heeft er een aantal voor u uitgezocht. Platformen die lage kosten hebben en een groot gebruikers gemak. Ik zou zeggen, welkom in de wondere wereld van CloudComputing!!</p>
+								
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"

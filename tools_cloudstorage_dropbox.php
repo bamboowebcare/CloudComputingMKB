@@ -56,16 +56,22 @@ include "analyticstracking.php";
 								</div>                                
                             </div>
                             <div class="span9 main-column two-columns-left">
-                                <h1>Dropbox</h1>
-<!-- CloudComputingMKB_banner_480*60 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:468px;height:60px"
-     data-ad-client="ca-pub-7056604531635482"
-     data-ad-slot="6592297363"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
- <!-- END CloudComputingMKB_banner_480*60 -->
+                 <h1><img src="img/tools/dropbox-logo.jpg" alt="Dropbox">Dropbox</h1>
+
+<p>Dropbox is een van de meest gebruiksvriendelijke online opslagdiensten die momenteel beschikbaar is.Dropbox is dus een online harde schijf die op verschillende manieren is te benaderen. Er is een webinterface waarmee alle bestanden en mappen kunnen worden bekeken en bestanden worden geüpload. Maar wie optimaal gebruik wil maken van Dropbox moet de applicatie installeren op één of meerdere computers (Windows, Mac, Linux). Tevens zijn er mobiele applicaties waarmee via de telefoon documenten kunnen worden gedownload.</p>
+
+<p>Het aanmaken van een 2 GB account is eenvoudig en gratis. Voor de meeste ZZP'ers en kleine ondernemers zal de gratis versie met 2 gigabyte voldoende zijn om bestanden tussen computers uit te wisselen of te delen met klanten. Tijdens de installatie wordt er een dropbox aangemaakt op je computer en wordt het account online geactiveerd. Door bestanden te kopiëren naar de lokale dropbox worden deze direct geüpload naar dropbox.com. Andersom werkt ook: als je vanaf een andere computer inlogt op dropbox.com en daar een bestand uploadt, wordt deze automatisch beschikbaar in de dropbox op je eigen computer. </p>
+<?php
+ include "banners/banner_01.php";
+?>
+<p>De dropbox werkt als een normale map/directory op je harde schijf en deze kun je zelf geheel naar eigen inzicht inrichten door mappen en submappen te maken. Deze zelf aangemaakte mappen kun je delen met anderen, maar daarvoor moet je ze zelf wel uitnodigen. Ook is er een publieke map om bestanden met iedereen te delen.
+Het versturen van een link naar een specifiek bestand is eenvoudig. In elke applicatie kun je voor ieder bestand Copy public link selecteren. Wil je bestanden niet meer publiekelijk delen, dan verplaats je ze simpelweg uit de publieke folder naar een eigen gemaakte map.</p>
+
+<p>Om de bestanden te gebruiken die je in de dropbox map opslaat hoef je dus niet online te zijn. Alleen voor het synchroniseren is dit van belang.</p>
+
+<?php
+ include "banners/banner_google_480-60.php";
+?>
 							</div>
                                  <a class="text-divider2" href="#top">back to top</a>
                                  <div class="text-divider5">

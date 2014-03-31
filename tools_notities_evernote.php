@@ -57,6 +57,10 @@ include "analyticstracking.php";
                             </div>
                             <div class="span9 main-column two-columns-left">
                                 <h1>Evernote</h1>
+<p>Binnenkort beschikbaar</p>
+<?php
+ include "banners/banner_02.php";
+?>
 <!-- CloudComputingMKB_banner_480*60 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:468px;height:60px"

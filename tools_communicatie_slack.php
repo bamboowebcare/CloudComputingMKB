@@ -4,8 +4,8 @@
         <!--  SEO STUFF START HERE -->
         <title>CloudComputing MKB</title></title>
         <meta name="keywords" content="Slack, Cloud, MKB, digitaal, Computing, ZZP, Informatie, Review" />
-        <meta name="description" content="Het internet is meer dan een verzameling van websites. CloudComputingMKB.com geeft het MKB en ZZP'ers inzicht in de wonderewereld van CloudComputing." />
-        <meta name="author" content="P.Y.N. Venema" />
+        <meta name="description" content="Review: Stel je voor dat voor je team alle communicatie op een plaats beschikbaar en doorzoekbaar is. Communicatie binnen het team van de 21e eeuw.  Dat is Slack." />
+        <meta name="author" content="BambooWebcare" />
         <meta name="robots" content="follow, index" />
         <!--  SEO STUFF END -->
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
@@ -63,7 +63,11 @@ include "analyticstracking.php";
 <p>Stel je voor dat voor je team alle communicatie op een plaats beschikbaar en doorzoekbaar is. Communicatie binnen het team van de 21e eeuw.  Dat is Slack.</p>
 
 <p>Aangezien bellen toch niet helemaal de communicatie van de 21 eeuw is kun je in Slack natuurlijk communiceren via Chat berichten. En geloof me, dat scheelt een heleboel loos email verkeer en dat is wel zo prettig. In Slack kun je verschillende werkgroepen inrichten (Channels). Channels zijn transparant en vergroten de kennis van alle teamleden. De complete historie van alle gesprekken is terug te vinden (inclusief een zoek functie). Kortom, nooit meer zoeken naar dat ene mailtje waarin u ge-cc'd werd. Channels bevatten dus berichten, bestanden en commentaren, afbeeldingen & video, links en integratie met CloudComputing diensten die u dagelijks gebruikt.</p>
-
+<!-- CloudComputingMKB_banner_480*60 -->
+<?php
+ include "banners/banner_01.php";
+?>
+<!-- END CloudComputingMKB_banner_480*60 -->
 <p><strong>Integratie met bestanden en clouddiensten</strong><br>
 De integratie van Slack met andere clouddiensten is indrukwekkend. Je kunt bijvoorbeeld naar bestanden vanaf de twee gangbare online Cloud Storage (Dropbox en Google Drive) diensten linken in Slack. Slack zorgt ervoor dat ze meteen benaderbaar zijn voor andere teamleden. Daarnaast biedt Slack ook integraties naar o.a. Trello. Deze diensten kunnen worden toegevoegd aan een Channel waardoor echt alle informatie op 1 plek terug te vinden is.</p>
 
